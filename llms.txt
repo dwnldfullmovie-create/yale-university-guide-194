@@ -1,0 +1,12 @@
+# Yale university guide 194 Hub
+> A modern tech logistics resource based in Austin, TX.
+
+## Site Index
+- [Home Page](/index.html): Portal overview for our services.
+- [About Us](/about.html): Our background and history.
+- [Contact](/contact.html): Office locations and communication form.
+## Publications
+- [Measuring Operational Output in High-Performance Teams](/measuring-operational-output-in-high-performance-teams.html)
+- [Geotargeting Strategies for Distributed Networks](/geotargeting-strategies-for-distributed-networks.html)
+- [Seasonal Wellness: Adapting Your Routine Throughout the Year](/seasonal-wellness-adapting-your-routine-throughout-the-year.html)
+- [Securing API Communications in Decentralized Systems](/securing-api-communications-in-decentralized-systems.html)
